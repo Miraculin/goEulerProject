@@ -14,3 +14,7 @@ func IsPrime(i int) bool {
 	}
 	return true
 }
+
+//func isSquare(i float64) bool {
+//	return math.Sqrt(i) == math.Floor(math.Sqrt(i))
+//}
